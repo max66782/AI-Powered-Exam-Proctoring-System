@@ -1,0 +1,13 @@
+phone_threshold: 3
+
+multiple_face_threshold: 3
+
+missing_face_threshold: 10
+
+looking_away_threshold: 5
+
+unauthorized_threshold: 3
+
+face_match_threshold: 0.6
+
+phone_confidence_threshold: 0.5
